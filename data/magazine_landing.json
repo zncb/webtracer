@@ -1,0 +1,8 @@
+[
+    {"name": "BBC Magazine", "url": "http://www.bbc.com/news/magazine" },
+    {"name": "Vice News", "url": "http://news.vice.com" },
+    {"name": "Vice Motherboard", "url": "http://motherboard.vice.com" },
+    {"name": "Wired Magazine", "url": "http://wired.com"},
+    {"name": "Business Insider", "url": "http://businessinsider.com"},
+    {"name": "Huffington Post", "url": "http://huffingtonpost.com" }
+]
